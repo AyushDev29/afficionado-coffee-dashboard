@@ -4,6 +4,14 @@
 
 This interactive dashboard reveals **when customers shop**, enabling data-driven decisions for staff scheduling, inventory management, and operational planning at Afficionado Coffee Roasters.
 
+## 🌐 Live Dashboard
+
+### ➡️ [Access the Live Dashboard Here](https://afficionado-coffee-dashboard-internship-project.streamlit.app/)
+
+**Dashboard URL:** `https://afficionado-coffee-dashboard-internship-project.streamlit.app/`
+
+Explore the analysis live now! No installation needed. 🚀
+
 ---
 
 ## 🎯 What This Dashboard Does
